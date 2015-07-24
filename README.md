@@ -1,1 +1,1 @@
-# centos-jdk7
+# ubuntu-jdk7
