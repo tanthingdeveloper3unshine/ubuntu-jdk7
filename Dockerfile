@@ -4,7 +4,7 @@ MAINTAINER developer  <developer@tanthing.com>
 ENV JAVA_VERSION=7 \
     JAVA_UPDATE=80 \
     JAVA_BUILD=15 \
-    JAVA_HOME /usr/lib/jvm/java-7-oracle/ 
+    JAVA_HOME=/usr/lib/jvm/java-7-oracle/ 
 
 # update source  
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe"> /etc/apt/sources.list  
